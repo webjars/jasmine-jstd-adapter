@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jasmine-jstd-adapter</artifactId>
-    <version>1.1.2</version>
+    <version>1.1.2-SNAPSHOT</version>
     <name>Jasmine JSTestDriver Adapter</name>
     <description>WebJar for Jasmine JSTestDriver Adapter</description>
     <url>http://webjars.org</url>
@@ -19,7 +19,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <upstream.version>1.1.2</upstream.version>
-        <upstream.url>https://github.com/ibolmo/jasmine-jstd-adapter/archive/1.1.2.zip</upstream.url>
+        <upstream.url>https://github.com/ibolmo/jasmine-jstd-adapter/archive/${upstream.version}.zip</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${project.version}</destDir>
     </properties>
 
@@ -34,7 +34,7 @@
     <licenses>
         <license>
             <name>MIT</name>
-            <url>https://github.com/ibolmo/jasmine-jstd-adapter/blob/1.1.2/MIT.LICENSE</url>
+            <url>https://github.com/ibolmo/jasmine-jstd-adapter/blob/${upstream.version}/MIT.LICENSE</url>
             <distribution>repo</distribution>
         </license>
     </licenses>
