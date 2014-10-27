@@ -12,8 +12,8 @@
     <groupId>org.webjars</groupId>
     <artifactId>jasmine-jstd-adapter</artifactId>
     <version>1.1.2</version>
-    <name>jasmine-jstd-adapter</name>
-    <description>WebJar for jasmine-jstd-adapter</description>
+    <name>Jasmine JSTestDriver Adapter</name>
+    <description>WebJar for Jasmine JSTestDriver Adapter</description>
     <url>http://webjars.org</url>
 
     <properties>
