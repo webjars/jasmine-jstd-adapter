@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jasmine-jstd-adapter</artifactId>
-    <version>1.1.2-SNAPSHOT</version>
+    <version>1.1.2</version>
     <name>Jasmine JSTestDriver Adapter</name>
     <description>WebJar for Jasmine JSTestDriver Adapter</description>
     <url>http://webjars.org</url>
@@ -43,7 +43,7 @@
         <url>http://github.com/webjars/jasmine-jstd-adapter</url>
         <connection>scm:git:https://github.com/webjars/jasmine-jstd-adapter.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jasmine-jstd-adapter.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jasmine-jstd-adapter-1.1.2</tag>
     </scm>
     
     <build>
